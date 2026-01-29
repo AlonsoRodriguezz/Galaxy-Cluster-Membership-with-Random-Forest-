@@ -31,7 +31,7 @@ The model prioritizes Completeness while maintaining a Purity comparable to dyna
 | Metric | Score | Significance |
 | :--- | :--- | :--- |
 | **Completeness** | **~0.98** | Nearly all true members are recovered. |
-| **Purity** | **~0.66** | Consistent with Caustic mass estimation profiles. |
+| **Purity** | **~0.66** | Consistent with state-of-the-art approaches. |
 | **F1-Score** | **~0.79** | High overall classification success. |*(See `results/figures` for the rest of the standard ML metrics.)*
 
 ## Installation & Usage
