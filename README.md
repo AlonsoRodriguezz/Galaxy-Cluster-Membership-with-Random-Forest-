@@ -54,7 +54,7 @@ python RF_implementation.py
 ## Repository Structure* 
 
 * `notebooks/`: Jupyter notebooks containing EDA and step-by-step model training.
-* `results/`: Generated plots (PPS, 3D distributions, Learning Curves).
+* `results/`: Generated plots (PPS, 3D distributions, ML results and metrics).
 * `thesis/`: Full PDF document of the undergraduate thesis.
 
 ---
