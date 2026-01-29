@@ -1,9 +1,6 @@
 # Galaxy Cluster Membership with Random Forest
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Astropy](https://img.shields.io/badge/Astropy-5.0%2B-orange)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0%2B-yellow)
-![Status](https://img.shields.io/badge/Status-Thesis_Completed-success)
 
 We use a Random Forest classifier to identify galaxy cluster members out to large cluster-centric distances ($5\ \mathrm{R}_{200}$), developed in the **CHANCES (CHileAN Cluster galaxy Evolution Survey)** [Haines et al. (2023)](https://doi.org/10.18727/0722-6691/5308), this tool leverages mock catalogs from the CHANCES Low - $z$ sub-survey. By using distinct physically motivated features, the model achieves high completeness and standard purity, making it ideal to apply as a cleaning step to study galaxy pre-processing. **You can read the full thesis [here](thesis/Rodriguez_Thesis_2026.pdf)**
 
