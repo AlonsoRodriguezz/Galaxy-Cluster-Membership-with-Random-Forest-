@@ -38,7 +38,7 @@ The model prioritizes Completeness while maintaining a Purity comparable to dyna
 
 1.  **Clone the repository:**    
 ```bash
-git clone [https://github.com/AlonsoRodriguezz/Galaxy-Cluster-Membership-with-Random-Forest.git]([https://github.com/AlonsoRodriguezz/galaxy-cluster-membership](https://github.com/AlonsoRodriguezz/Galaxy-Cluster-Membership-with-Random-Forest).git)
+git clone https://github.com/AlonsoRodriguezz/Galaxy-Cluster-Membership-with-Random-Forest.git
 cd galaxy-cluster-membership
 ```
 2.  **Install dependencies:**
