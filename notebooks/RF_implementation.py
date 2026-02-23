@@ -12,18 +12,17 @@ import os
 import glob
 import numpy as np
 import pandas as pd
-import dask.dataframe as dd
-import matplotlib.pyplot as plt
+# import dask.dataframe as dd
 import seaborn as sns
 from scipy.spatial import distance
-from scipy.interpolate import make_interp_spline
 import joblib
-from mpl_toolkits.mplot3d import Axes3D
-from mpl_toolkits.mplot3d import proj3d
 import gc
 import itertools
 
 #matplotlib
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+from mpl_toolkits.mplot3d import proj3d
 from matplotlib import rc, rcParams
 import matplotlib.gridspec as gridspec
 import matplotlib.ticker as ticker
@@ -32,7 +31,6 @@ from matplotlib.patches import Patch
 from matplotlib.lines import Line2D
 import matplotlib.colors as mcolors
 from matplotlib.patches import ConnectionPatch
-import matplotlib.patheffects as pe
 
 #astropy
 from astropy.io import ascii, fits
