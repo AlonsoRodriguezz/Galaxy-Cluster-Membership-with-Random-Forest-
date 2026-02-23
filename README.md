@@ -61,7 +61,7 @@ python RF_implementation.py
 
 ## Author & Acknowledgments
 
-**Author:** Gerardo A. Rodríguez J.  
+**Author:** Gerardo A. Rodríguez
 **Supervisors:** PhD. Yara Jaffé, PhD. Pía Amigo  
 **Affiliation:** Universidad Técnica Federico Santa María (USM), Department of Physics.
 
