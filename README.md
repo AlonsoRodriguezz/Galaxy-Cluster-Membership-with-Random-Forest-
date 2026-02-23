@@ -51,7 +51,7 @@ pip install -r requirements.txt
 python RF_implementation.py
 ```
 
-## Repository Structure* 
+## Repository Structure 
 
 * `notebooks/`: Jupyter notebooks containing EDA and step-by-step model training.
 * `results/`: Model clone, results file and generated plots for every model.
