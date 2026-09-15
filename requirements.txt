@@ -1,11 +1,9 @@
 jupyter
 numpy
 pandas
-matplotlib
+joblib
 seaborn
-scipy
+matplotlib
 astropy
 scikit-learn
-imbalanced-learn
-joblib
 pyarrow
